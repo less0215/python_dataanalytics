@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../data_analysis_adv-main/datasets"
+		},
+		{
+			"path": "../../data_analysis_adv-main/sourcecode"
+		}
+	],
+	"settings": {}
+}
